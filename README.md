@@ -1,42 +1,96 @@
-# 💫 About Me:
+<div align="center">
 
-🎓 Estudiante de Ingeniería en Sistemas (5º ciclo) en UNIVO, El Salvador.<br>
-🔭 Actualmente construyo **FERRED**: un sistema POS + inventario multi-sucursal **offline-first** (Electron + Express/TS + Prisma, SQLite local sincronizado con Postgres/Supabase), con tienda en línea, pagos con Stripe y facturación electrónica DTE (sandbox del Ministerio de Hacienda SV).<br>
-🛠️ También desarrollo un **ERP de inventario y punto de venta** con NestJS, Prisma, React y Docker como proyecto personal.<br>
-👯 Busco colaborar en proyectos full-stack con TypeScript/Node donde pueda aportar y seguir creciendo.<br>
-🌱 Profundizando en: testing automatizado, CI/CD, seguridad de aplicaciones y arquitectura de software.<br>
-⚙️ Trabajo con metodologías ágiles (Scrum): backlogs, historias de usuario, sprints y documentación técnica.<br>
-💬 Pregúntame sobre sistemas offline-first, monorepos con pnpm, o integrar pasarelas de pago (Stripe/PayPal).
+<img src="https://www.gitskins.com/api/section/hero?username=Carlos-Gnd&theme=cyber" alt="Carlos Granados" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-granados-6445b3248) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29654236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlosgranados2309@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlos.gnd9)
+<a href="https://linkedin.com/in/carlos-granados-6445b3248"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4f9cf9" alt="LinkedIn" /></a>
+<a href="mailto:carlosgranados2309@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
+<a href="https://stackoverflow.com/users/29654236"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=fbbf24" alt="Stack Overflow" /></a>
+<a href="https://instagram.com/carlos.gnd9"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
 
-# 💻 Tech Stack:
+</div>
 
-### Lenguajes
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+## `> whoami`
 
-### Backend & Bases de datos
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+Estudiante de **Ingeniería en Desarrollo de Software** en la UNIVO (San Miguel, El Salvador), cursando el ciclo VI de 10. Construyo bajo la marca **Gnd-Code**.
 
-### Frontend & Desktop
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
+- 🧱 Me gusta el software que resuelve problemas de verdad: **POS/ERP offline-first** para negocios que no pueden parar cuando se cae internet, y **sistemas de asistencia** que la universidad usa.
+- 🛡️ Me importa que funcione en producción: RLS en Postgres, validación en el servidor, QR firmados, hardening de CORS/CSP, auditorías de seguridad.
+- 👥 He liderado el desarrollo en equipo con **Scrum**: arquitectura, backend, deploy y QA.
+- 🧠 Ahora mismo sigo un plan de 24 semanas para dominar los fundamentos detrás de lo que construyo (JS a fondo, HTTP, SQL, testing, arquitectura).
 
-### DevOps & Herramientas
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
+## `> ls ~/proyectos --destacados`
 
-# 🚀 Proyectos destacados:
-- **FERRED** — POS e inventario multi-sucursal offline-first para ferretería: Electron + React, Express/TypeScript, Prisma (SQLite ↔ Postgres/Supabase), e-commerce con Stripe, facturación electrónica DTE (SV). Desarrollado en equipo con Scrum (4 sprints, auditorías y documentación técnica).
-- **Smart Inventory ERP** — sistema de inventario y punto de venta: NestJS + Prisma + PostgreSQL, React + Vite + Tailwind, monorepo pnpm con Docker Compose.
-- **CheckHealth (UNIVO-CHECK)** — plataforma web universitaria con Supabase, desarrollada con Scrum.
+<p align="center">
+  <a href="https://github.com/Carlos-Gnd/FERRED-Inventario-y-Ventas"><img src="assets/ferred.svg" width="49%" alt="FERRED" /></a>
+  <img src="assets/sia-u.svg" width="49%" alt="SIA-U" />
+</p>
+<p align="center">
+  <img src="assets/check-health.svg" width="49%" alt="UNIVO Check-Health" />
+  <a href="https://github.com/Carlos-Gnd/PokeCards-Market"><img src="assets/pokecards.svg" width="49%" alt="PokéCards Market" /></a>
+</p>
+<p align="center">
+  <img src="assets/smart-inventory.svg" width="49%" alt="Smart Inventory ERP" />
+  <img src="assets/anamnesis-xr.svg" width="49%" alt="ANAMNESIS XR" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Carlos-Gnd&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Gnd&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Gnd&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <b>Demos:</b>
+  <a href="https://ferred.netlify.app">FERRED</a> ·
+  <a href="https://pokecardsmarket.netlify.app">PokéCards Market</a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## `> ls ~/lab`
 
----
-[![](https://visitcount.itsvg.in/api?id=Carlos-Gnd&icon=0&color=0)](https://visitcount.itsvg.in)
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [AstroBitácora](https://github.com/Carlos-Gnd/astro-performance-lab) · [demo](https://astro-lap-practice.vercel.app) | Laboratorio de rendimiento web medido con Lighthouse | Astro |
+| [App To-Do](https://github.com/Carlos-Gnd/App-TO-DO) · [demo](https://app-to-do-sepia.vercel.app) | To-do full-stack | Express · Prisma · MySQL · Docker |
+| [Pokédex](https://github.com/Carlos-Gnd/pokedex) | Pokédex con PokéAPI | React 19 · TypeScript |
+| [Smart Inventory Desktop](https://github.com/Carlos-Gnd/smart_inventoryProyect) | Inventario y ventas de escritorio | C# WinForms · SQL Server |
+| [Conecta Tu Mente](https://github.com/Carlos-Gnd/Conecta-Tu-Mente) | Landing bilingüe enfocada en rendimiento y SEO; el formulario escribe a Supabase con RLS solo-INSERT y rate limit por trigger | HTML/CSS/JS · Supabase |
+| [Prácticas EDD](https://github.com/Carlos-Gnd/Practicas-EDD) | Laboratorios de estructuras de datos | Python |
+| [autodns](https://github.com/Carlos-Gnd/script_ubuntu_server) | IP estática + DNS automático en Ubuntu Server | Bash |
+| [Login Ubuntu Server](https://github.com/Carlos-Gnd/Login-Ubuntu-server) | Login en contenedores | Nginx · PHP · MySQL · Docker |
+
+## `> cat stack.yml`
+
+<table>
+  <tr>
+    <td width="150"><b>Lenguajes</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash,html,css&theme=dark" alt="Lenguajes" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,astro,electron&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend y datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,supabase,postgres,sqlite,mysql,mongodb,firebase&theme=dark" alt="Backend y datos" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra y tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,fedora,ubuntu,nginx,githubactions,vercel,netlify,azure,pnpm,vitest,git&theme=dark" alt="Infra y tooling" /></td>
+  </tr>
+</table>
+
+<img src="https://www.gitskins.com/api/section/stack?username=Carlos-Gnd&theme=cyber" alt="Language stack" width="100%" />
+
+## `> git log --stack`
+
+<img src="assets/trayectoria.svg" alt="Trayectoria por ciclo" width="100%" />
+
+<img src="assets/ahora.svg" alt="Ahora mismo" width="100%" />
+
+## `> ./profile-scan --live`
+
+<img src="https://www.gitskins.com/api/section/stats?username=Carlos-Gnd&theme=cyber" alt="GitHub stats" width="100%" />
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=Carlos-Gnd&theme=cyber" alt="Contribution activity" width="100%" />
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=Carlos-Gnd&theme=cyber" alt="" width="100%" />
+
+<sub>Hecho en San Miguel, El Salvador 🇸🇻 · <b>Gnd-Code</b></sub>
+
+</div>

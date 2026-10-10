@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img">
+<defs>
+  <radialGradient id="g1now" cx="12%" cy="0%" r="55%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".55"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2now" cx="78%" cy="0%" r="45%"><stop offset="0" stop-color="#22c55e" stop-opacity=".35"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g3now" cx="60%" cy="100%" r="45%"><stop offset="0" stop-color="#a855f7" stop-opacity=".45"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g4now" cx="100%" cy="80%" r="40%"><stop offset="0" stop-color="#14b8a6" stop-opacity=".45"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="920" height="260" rx="18" fill="#0b1020"/>
+<rect width="920" height="260" rx="18" fill="url(#g1now)"/>
+<rect width="920" height="260" rx="18" fill="url(#g2now)"/>
+<rect width="920" height="260" rx="18" fill="url(#g3now)"/>
+<rect width="920" height="260" rx="18" fill="url(#g4now)"/>
+<rect x="12" y="12" width="896" height="236" rx="14" fill="#000" stroke="#4f9cf9" stroke-opacity=".45"/>
+<text x="36" y="52" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#f8fafc" text-anchor="start" >Ahora mismo</text>
+<text x="36" y="76" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#94a3b8" text-anchor="start" >Oct 2026 – Mar 2027 · entender a fondo lo que construyo</text>
+<text x="884" y="52" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#4f9cf9" text-anchor="end" >&gt; cat now.md</text>
+<rect x="36" y="98" width="270" height="124" rx="12" fill="#05080f" stroke="#22d3ee" stroke-opacity=".45"/>
+<text x="54" y="126" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#22d3ee" text-anchor="start" >// construyendo</text>
+<text x="54" y="154" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› SIA-U: módulo académico</text>
+<text x="54" y="176" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› ANAMNESIS XR: prueba de concepto</text>
+<text x="54" y="198" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >(ciclo de voz con IA local)</text>
+<rect x="326" y="98" width="270" height="124" rx="12" fill="#05080f" stroke="#a78bfa" stroke-opacity=".45"/>
+<text x="344" y="126" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#a78bfa" text-anchor="start" >// estudiando</text>
+<text x="344" y="154" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› Event loop, closures y promesas</text>
+<text x="344" y="176" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› HTTP y auth sin framework</text>
+<text x="344" y="198" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› SQL a mano: índices y EXPLAIN</text>
+<rect x="616" y="98" width="270" height="124" rx="12" fill="#05080f" stroke="#4ade80" stroke-opacity=".45"/>
+<text x="634" y="126" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#4ade80" text-anchor="start" >// siguiente</text>
+<text x="634" y="154" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› Testing + CI en FERRED</text>
+<text x="634" y="176" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› Sync offline e idempotencia</text>
+<text x="634" y="198" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#cbd5e1" text-anchor="start" >› Auditoría OWASP</text>
+</svg>

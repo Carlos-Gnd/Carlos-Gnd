@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250" role="img">
+<defs>
+  <radialGradient id="g1smart-inventory" cx="12%" cy="0%" r="55%"><stop offset="0" stop-color="#3b82f6" stop-opacity=".55"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2smart-inventory" cx="78%" cy="0%" r="45%"><stop offset="0" stop-color="#22c55e" stop-opacity=".35"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g3smart-inventory" cx="60%" cy="100%" r="45%"><stop offset="0" stop-color="#a855f7" stop-opacity=".45"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g4smart-inventory" cx="100%" cy="80%" r="40%"><stop offset="0" stop-color="#14b8a6" stop-opacity=".45"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="460" height="250" rx="18" fill="#0b1020"/>
+<rect width="460" height="250" rx="18" fill="url(#g1smart-inventory)"/>
+<rect width="460" height="250" rx="18" fill="url(#g2smart-inventory)"/>
+<rect width="460" height="250" rx="18" fill="url(#g3smart-inventory)"/>
+<rect width="460" height="250" rx="18" fill="url(#g4smart-inventory)"/>
+<rect x="12" y="12" width="436" height="226" rx="14" fill="#000" stroke="#4f9cf9" stroke-opacity=".45"/>
+<text x="34" y="46" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#4f9cf9" text-anchor="start" >~/proyectos/smart-inventory</text>
+<text x="241.1" y="46" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#94a3b8" text-anchor="start" >· privado</text>
+<rect x="344.0" y="31" width="82.0" height="22" rx="11" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24" stroke-opacity=".7"/>
+<circle cx="355.0" cy="42" r="3.5" fill="#fbbf24"/>
+<text x="390.0" y="46" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="10.5" font-weight="700" fill="#fbbf24" text-anchor="middle" letter-spacing="1">EN PAUSA</text>
+<text x="34" y="86" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#f8fafc" text-anchor="start" >Smart Inventory ERP</text>
+<text x="34" y="114" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a8b3c7" text-anchor="start" >ERP retail/restaurante para pymes: inventario, POS,</text>
+<text x="34" y="134" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a8b3c7" text-anchor="start" >caja, compras y RRHH. Reescritura web de mi app</text>
+<text x="34" y="154" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#a8b3c7" text-anchor="start" >de escritorio en C# WinForms + SQL Server.</text>
+<text x="34" y="182" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="500" fill="#22d3ee" text-anchor="start" >▸ Monorepo pnpm + Turborepo · 27 modelos Prisma</text>
+<rect x="34" y="198" width="57" height="22" rx="11" fill="#0f172a" stroke="#4f9cf9" stroke-opacity=".5"/>
+<text x="62.5" y="213" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="600" fill="#cbd5e1" text-anchor="middle" >NestJS</text>
+<rect x="98" y="198" width="57" height="22" rx="11" fill="#0f172a" stroke="#4f9cf9" stroke-opacity=".5"/>
+<text x="126.5" y="213" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="600" fill="#cbd5e1" text-anchor="middle" >Prisma</text>
+<rect x="162" y="198" width="84" height="22" rx="11" fill="#0f172a" stroke="#4f9cf9" stroke-opacity=".5"/>
+<text x="204.0" y="213" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="600" fill="#cbd5e1" text-anchor="middle" >PostgreSQL</text>
+<rect x="253" y="198" width="77" height="22" rx="11" fill="#0f172a" stroke="#4f9cf9" stroke-opacity=".5"/>
+<text x="291.5" y="213" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="600" fill="#cbd5e1" text-anchor="middle" >shadcn/ui</text>
+<rect x="337" y="198" width="57" height="22" rx="11" fill="#0f172a" stroke="#4f9cf9" stroke-opacity=".5"/>
+<text x="365.5" y="213" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="600" fill="#cbd5e1" text-anchor="middle" >Docker</text>
+</svg>
